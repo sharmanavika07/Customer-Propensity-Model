@@ -1,0 +1,2 @@
+# Customer-Propensity-Model
+This data set represents a day's worth of visit to an online supermarket website. Each row represents a unique customer, identified by their unique UserID. The columns represent feature of the users visit (such as the device they were using) and things the user did on the website in that day. This model can help us analyze the most important aspects for customers' propensity to purchase and predict if a customer will purchase.
